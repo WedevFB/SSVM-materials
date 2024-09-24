@@ -1,0 +1,5 @@
+https://github.com/WedevFB/SSVM-materials/blob/main/logo.png
+
+covert it into
+
+https://cdn.jsdelivr.net/gh/WedevFB/SSVM-materials/logo.png
